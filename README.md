@@ -28,11 +28,11 @@ Steps to Reproduce:
 
 Expected Result:
 
-Counted Average values, sholud be equal to Average values from Summary table. Also Maximum, Minumum and Optimal values should be equal.
+Counted Average values, sholud be equal to Average values from Summary table. Maximum, Minumum and Optimal values should be equal too.
 
 Actual Result:
 
-Counted Average values, are different from Average values from Summary table. As a result, it can also affect Maximum, Minumum and Optimal values.
+Counted Average values, are different from Average values from Summary table. As a result, it may also affect Maximum, Minumum and Optimal values.
 
 
 
